@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# [TRASH TO TREASURE] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [SPARKLES]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [MIYA BINU] - [TKM COLLEGE OF ENGINEERING]
+- Member 2: [ARSHA A] - [TKM COLLEGE OF ENGINEERING]
+- Member 3: [LEKSHMI B] - [TKM COLLEGE OF ENGINEERING]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
@@ -17,18 +17,17 @@
 [2-3 lines about what your project does]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Growing issue of waste management and filling up of landfills.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[WE focused on converting waste materials into useful art, crafts, and practical items promotes creativity, sustainability, and environmental awareness. It provides innovative ideas and tutorials for upcycling and repurposing items like plastic bottles, old clothes, paper, and other discarded materials into beautiful, functional, or decorative creations.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML,CSS,JAVASCRIPT]
+- [#include]
+- [ GEMINI API]
 
 For Hardware:
 - [List main components]
